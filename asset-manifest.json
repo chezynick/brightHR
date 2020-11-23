@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brightHR/static/css/main.4a44700f.chunk.css",
+    "main.js": "/brightHR/static/js/main.18b0b17e.chunk.js",
+    "main.js.map": "/brightHR/static/js/main.18b0b17e.chunk.js.map",
+    "runtime-main.js": "/brightHR/static/js/runtime-main.1618be5f.js",
+    "runtime-main.js.map": "/brightHR/static/js/runtime-main.1618be5f.js.map",
+    "static/js/2.04c50bb1.chunk.js": "/brightHR/static/js/2.04c50bb1.chunk.js",
+    "static/js/2.04c50bb1.chunk.js.map": "/brightHR/static/js/2.04c50bb1.chunk.js.map",
+    "static/js/3.e37c829a.chunk.js": "/brightHR/static/js/3.e37c829a.chunk.js",
+    "static/js/3.e37c829a.chunk.js.map": "/brightHR/static/js/3.e37c829a.chunk.js.map",
+    "index.html": "/brightHR/index.html",
+    "static/css/main.4a44700f.chunk.css.map": "/brightHR/static/css/main.4a44700f.chunk.css.map",
+    "static/js/2.04c50bb1.chunk.js.LICENSE.txt": "/brightHR/static/js/2.04c50bb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1618be5f.js",
+    "static/js/2.04c50bb1.chunk.js",
+    "static/css/main.4a44700f.chunk.css",
+    "static/js/main.18b0b17e.chunk.js"
+  ]
+}
