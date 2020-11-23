@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
 
 const Detail = ({ detailArr, hideDetailHandler }) => {
+  //call display detail function
   const clickHandler = () => {
     hideDetailHandler();
   };

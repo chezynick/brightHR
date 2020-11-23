@@ -7,8 +7,10 @@ import Container from "./Container";
 import Data from "./Data";
 
 function App() {
+  //set state to import Data and allow to be sorted
   const [DataInfo, setDataInfo] = useState(Data);
 
+  //recieve new array from sort and change state
   const sortedArr = (result) => {
     setDataInfo([...result]);
     return DataInfo, setDataInfo;

@@ -4,6 +4,7 @@ import { faFileAlt, faFolderPlus } from "@fortawesome/free-solid-svg-icons";
 import Detail from "./Details";
 
 const Container = ({ DataInfo }) => {
+  //add state to allow detail display to be toggled
   const [detailArr, setDetailArr] = useState([]);
   const [showDetail, setShowDetail] = useState(false);
 
@@ -28,6 +29,7 @@ const Container = ({ DataInfo }) => {
       setDetailArr(result);
     }
   };
+  //toggle detail display back to false
   const hideDetailHandler = () => {
     setShowDetail(false);
   };
